@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/carrental/static/css/main.0131d4b4.chunk.css",
+    "main.css": "/carrental/static/css/main.164a379e.chunk.css",
     "main.js": "/carrental/static/js/main.b89d85a6.chunk.js",
     "main.js.map": "/carrental/static/js/main.b89d85a6.chunk.js.map",
     "runtime-main.js": "/carrental/static/js/runtime-main.4bd09abc.js",
@@ -8,16 +8,16 @@
     "static/js/2.4427c2a6.chunk.js": "/carrental/static/js/2.4427c2a6.chunk.js",
     "static/js/2.4427c2a6.chunk.js.map": "/carrental/static/js/2.4427c2a6.chunk.js.map",
     "index.html": "/carrental/index.html",
-    "precache-manifest.0e3b87523d1f1a489596d4794910c436.js": "/carrental/precache-manifest.0e3b87523d1f1a489596d4794910c436.js",
+    "precache-manifest.ae78a87538ab6feb2544d10e2dd07ea4.js": "/carrental/precache-manifest.ae78a87538ab6feb2544d10e2dd07ea4.js",
     "service-worker.js": "/carrental/service-worker.js",
-    "static/css/main.0131d4b4.chunk.css.map": "/carrental/static/css/main.0131d4b4.chunk.css.map",
+    "static/css/main.164a379e.chunk.css.map": "/carrental/static/css/main.164a379e.chunk.css.map",
     "static/js/2.4427c2a6.chunk.js.LICENSE.txt": "/carrental/static/js/2.4427c2a6.chunk.js.LICENSE.txt",
     "static/media/carLogo.png": "/carrental/static/media/carLogo.c841ecca.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4bd09abc.js",
     "static/js/2.4427c2a6.chunk.js",
-    "static/css/main.0131d4b4.chunk.css",
+    "static/css/main.164a379e.chunk.css",
     "static/js/main.b89d85a6.chunk.js"
   ]
 }
