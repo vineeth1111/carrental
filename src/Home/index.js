@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { withStyles } from "@material-ui/core/styles";
 import Paper from "@material-ui/core/Paper";
-import PropTypes from "prop-types";
 import Typography from "@material-ui/core/Typography";
+import Rental from '../Components/Rental';
 
 const styles = {
   paper: {
@@ -14,6 +14,9 @@ const styles = {
   title: {
     alignSelf: "right",
   },
+  rental:{
+      margin:"auto",
+  }
 };
 
 class Home extends Component {
@@ -26,16 +29,14 @@ class Home extends Component {
     console.log("Home is rendered");
     return (
       <div>
-        <Paper elevation={1} className={classes.paper}>
+        {/* <Paper elevation={1} square className={classes.paper}> */}
+            <div>
           <Typography variant="h5" className={classes.title}>Cars for rent</Typography>
-        </Paper>
+          <Rental/></div>
+        {/* </Paper> */}
       </div>
     );
   }
 }
-
-// Home.propTypes = {
-//   classes: PropTypes.object.isRequired,
-// };
 
 export default withStyles(styles)(Home);

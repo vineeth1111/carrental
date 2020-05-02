@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import RentalSection from './RentalSection';
 
 class Rental extends Component{
 
@@ -13,9 +14,8 @@ class Rental extends Component{
 
     render(){
         return(
-            <div>
-                
-            </div>
+                <RentalSection/>  
         );
     }
 }
+export default Rental;
