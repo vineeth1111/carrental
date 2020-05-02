@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/carrental/static/css/main.164a379e.chunk.css",
-    "main.js": "/carrental/static/js/main.b89d85a6.chunk.js",
-    "main.js.map": "/carrental/static/js/main.b89d85a6.chunk.js.map",
+    "main.js": "/carrental/static/js/main.266c89a7.chunk.js",
+    "main.js.map": "/carrental/static/js/main.266c89a7.chunk.js.map",
     "runtime-main.js": "/carrental/static/js/runtime-main.4bd09abc.js",
     "runtime-main.js.map": "/carrental/static/js/runtime-main.4bd09abc.js.map",
-    "static/js/2.4427c2a6.chunk.js": "/carrental/static/js/2.4427c2a6.chunk.js",
-    "static/js/2.4427c2a6.chunk.js.map": "/carrental/static/js/2.4427c2a6.chunk.js.map",
+    "static/js/2.b7bb7589.chunk.js": "/carrental/static/js/2.b7bb7589.chunk.js",
+    "static/js/2.b7bb7589.chunk.js.map": "/carrental/static/js/2.b7bb7589.chunk.js.map",
     "index.html": "/carrental/index.html",
-    "precache-manifest.ae78a87538ab6feb2544d10e2dd07ea4.js": "/carrental/precache-manifest.ae78a87538ab6feb2544d10e2dd07ea4.js",
+    "precache-manifest.0dd3c9ea6c2afdaa5735e3e1298e998b.js": "/carrental/precache-manifest.0dd3c9ea6c2afdaa5735e3e1298e998b.js",
     "service-worker.js": "/carrental/service-worker.js",
     "static/css/main.164a379e.chunk.css.map": "/carrental/static/css/main.164a379e.chunk.css.map",
-    "static/js/2.4427c2a6.chunk.js.LICENSE.txt": "/carrental/static/js/2.4427c2a6.chunk.js.LICENSE.txt",
+    "static/js/2.b7bb7589.chunk.js.LICENSE.txt": "/carrental/static/js/2.b7bb7589.chunk.js.LICENSE.txt",
     "static/media/carLogo.png": "/carrental/static/media/carLogo.c841ecca.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4bd09abc.js",
-    "static/js/2.4427c2a6.chunk.js",
+    "static/js/2.b7bb7589.chunk.js",
     "static/css/main.164a379e.chunk.css",
-    "static/js/main.b89d85a6.chunk.js"
+    "static/js/main.266c89a7.chunk.js"
   ]
 }
